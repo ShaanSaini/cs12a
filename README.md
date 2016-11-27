@@ -1,3 +1,3 @@
 # cs12a
-# UCSC Intro to Java
-# Professor Tantalo
+ UCSC Intro to Java
+ Professor Tantalo
