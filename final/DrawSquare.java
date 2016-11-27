@@ -1,0 +1,12 @@
+public static void DrawSquare(int n) {
+    if (n > 1) {
+	for (int i = 0; i < n.length; i++) {
+	    for (int j = 0; j < n.length; j++) {
+		System.out.print("*");
+	    }
+	    System.out.println();
+	}
+    } else {
+	System.out.println("Usage: xxxxxxxx");
+    }
+}

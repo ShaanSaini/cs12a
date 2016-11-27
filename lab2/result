@@ -1,0 +1,21 @@
+/afs/cats.ucsc.edu/users/z/shksaini/cs12a/lab2
+
+Access list for public is
+Normal rights:
+  system:operator rlidwk
+  system:authuser rlid
+  system:anyuser rl
+  shksaini rlidwka
+
+Access list for private is
+Normal rights:
+  shksaini rlidwka
+
+total 7
+-rw-r--r--. 1 shksaini users  426 Jan 19 20:51 HelloWorld.class
+drwxr-xr-x. 2 shksaini users 2048 Jan 19 20:26 private
+-rwx------. 1 shksaini users  192 Jan 19 20:52 prog
+drwxr-xr-x. 2 shksaini users 2048 Jan 19 20:26 public
+-rw-r--r--. 1 shksaini users  239 Jan 19 20:55 result
+
+Hello, lab2!

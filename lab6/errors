@@ -1,0 +1,5 @@
+1. "books" is plural when it should be singular
+2. When "stuff" is entered for #5 the sentence loses a period at the end
+3. Choice 3 for #3 says "last weekend" when it should be "next weekend"
+4. Choice 4 for #2 outputs "hot" when it should be "cold"
+5. You are not told when the input was not a valid sentence code but instead get some cryptic syntax error
